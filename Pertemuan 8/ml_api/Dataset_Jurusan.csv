@@ -1,23 +1,23 @@
-﻿nama_siswa,nilai_akademik,minat,kompetensi,jurusan,label
-IVANA GRACIA ARBILITA OMEGA,92,944,TJKT,Teknik Informatika,1
-AGIL FERDINAN,92,932,TJKT,Teknik Jaringan Telekomunikasi Digital,1
-ALLEANDRO DEWO PASKALIS,91,926,TJKT,Ilmu Komunikasi,0
-VIVIT PUTRI NOVELA,86,923,TJKT,Teknik Industri Pertanian,0
-ALDA SELSI FIRDAUS,85,920,TJKT,Teknologi Pendidikan,0
-SURYA SETA AJI WIDIGDYA,93,919,TJKT,Teknik Informatika,1
-NOVIA ANGELA ARIADI,86,917,TJKT,Teknik Komputer,1
-HAMDAN NAUFAL BAHRUL ULUM,86,916,TJKT,Teknik Jaringan Telekomunikasi Digital,1
-MUHAMMAD RIZKY NURFIRMANSYAH,86,915,TJKT,Teknik Elektronika,1
-FANNY VIOLITA RAHMANIA,85,915,TJKT,Teknik Elektro,1
-MUHAMMAD SULTAN AZZAM ALHAFIZD,89,914,TJKT,Teknik Informatika,1
-GENTA SATRIA NIRWANA,89,913,TJKT,Teknik Elektronika,1
-DEVANA AURELYA AGUSTIN,86,910,TJKT,Teknik Informatika,1
-SIONG FAH CIN,90,910,TJKT,Pendidikan Jasmani Kesehatan dan Rekreasi,0
-NANDA AGUSTIN PUTRI FAWZYAH,85,907,TJKT,Teknik Informatika,1
-IVY IVANA YAKUB,86,906,TJKT,Manajemen,0
-NOVIA NABILA,88,901,TJKT,Teknik Informatika,1
-PATRICIA,86,899,TJKT,Manajemen,0
-SARIFUDIN DAROJATUN,90,895,TJKT,Teknik Industri,0
-RIFQI APRELINO JETZADA,86,895,TJKT,Ilmu Komunikasi,0
-MOHAMAD RAZA KAYZAN KURNIAWAN,85,892,TJKT,Teknik Elektro,1
-ANANTHA KURNIAWAN,90,889,TJKT,Administrasi Bisnis,0
+nama_siswa,kompetensi,nilai_akademik,jurusan_1,jurusan_2
+IVANA GRACIA ARBILITA OMEGA,92,944,Teknik Informatika,Teknologi Informasi
+AGIL FERDINAN,92,932,Teknik Jaringan Telekomunikasi Digital,Teknik Informatika
+ALLEANDRO DEWO PASKALIS,91,926,Ilmu Komunikasi,-
+VIVIT PUTRI NOVELA,86,923,Teknik Industri Pertanian,Pendidikan Teknologi Informasi
+ALDA SELSI FIRDAUS,85,920,Teknologi Pendidikan,Manajemen Pemasaran
+SURYA SETA AJI WIDIGDYA,93,919,Teknik Informatika,Teknik Elektro
+NOVIA ANGELA ARIADI,86,917,Teknik Komputer,Teknik Elektro
+HAMDAN NAUFAL BAHRUL ULUM,86,916,Teknik Jaringan Telekomunikasi Digital,Teknik Informatika
+MUHAMMAD RIZKY NURFIRMANSYAH,86,915,Teknik Elektronika,Teknologi Rekayasa Sistem Elektronika
+FANNY VIOLITA RAHMANIA,85,915,Teknik Elektro,Teknik Elektronika
+MUHAMMAD SULTAN AZZAM ALHAFIZD,89,914,Teknik Informatika,Teknik Jaringan Telekomunikasi Digital
+GENTA SATRIA NIRWANA,89,913,Teknik Elektronika,Teknik Elektro
+DEVANA AURELYA AGUSTIN,86,910,Teknik Informatika,Teknik Informatika
+SIONG FAH CIN,90,910,Pendidikan Jasmani Kesehatan dan Rekreasi,Pariwisata
+NANDA AGUSTIN PUTRI FAWZYAH,85,907,Teknik Informatika,Teknik Elektro
+IVY IVANA YAKUB,86,906,Manajemen,Ilmu Kesehatan Masyarakat
+NOVIA NABILA,88,901,Teknik Informatika,Teknik Informatika
+PATRICIA,86,899,Manajemen,Teknik Elektro
+SARIFUDIN DAROJATUN,90,895,Teknik Industri,Teknik Pengairan
+RIFQI APRELINO JETZADA,86,895,Ilmu Komunikasi,Teknik Jaringan Telekomunikasi Digital
+MOHAMAD RAZA KAYZAN KURNIAWAN,85,892,Teknik Elektro,Teknik Informatika
+ANANTHA KURNIAWAN,90,889,Administrasi Bisnis,Pendidikan Guru Sekolah Dasar 
