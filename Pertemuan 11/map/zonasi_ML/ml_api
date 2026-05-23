@@ -1,0 +1,22 @@
+from fastapi import FastAPI
+import joblib
+import numpy as np
+
+app = FastAPI()
+
+model = joblib.load('model_zonasi.pkl')
+
+@app.post('/predict_zonasi')
+def predict(data: dict):
+
+    x = np.array([[
+        data['kepadatan'],
+        data['jarak_jalan'],
+        data['sekolah_eksisting']
+    ]])
+
+    hasil = model.predict(x)
+
+    return {
+        'skor_kelayakan': float(hasil[0])
+    }
